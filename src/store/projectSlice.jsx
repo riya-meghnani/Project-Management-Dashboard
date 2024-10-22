@@ -58,7 +58,8 @@ const projectSlice = createSlice({
     editTask: (state, action) => {
       const project = state.projects.find((p) => p.id == action.payload.projectId);
       const task = project.tasks.find((t) => t.id == action.payload.taskId);
-      task = {...action.payload.editedTask}
+      task.title = action.payload.editedTask.title;
+      task.description = action.payload.editedTask.description
     }
    }
 })
