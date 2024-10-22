@@ -3,6 +3,9 @@
 ## Overview
 The Project Management Dashboard is a web application that provides functionality to manage projects and tasks.
 
+## Prerequisites
+Make sure you are using Node.js version 18 or later. 
+
 ## Installation
 To set up the project locally, follow these steps:
 
