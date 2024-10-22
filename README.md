@@ -1,8 +1,26 @@
-# React + Vite
+# Project Management Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+The Project Management Dashboard is a web application that provides functionality to manage projects and tasks.
 
-Currently, two official plugins are available:
+## Installation
+To set up the project locally, follow these steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/riya-meghnani/Project-Management-Dashboard.git
+2. Navigate to the project directory:
+  ```bash
+  cd Project-Management-Dashboard
+```
+3. Install the required dependencies:
+```bash
+npm install
+```
+## Usage
+
+1. Run the project using command
+   ```bash
+   npm run dev
+   ```
+   
